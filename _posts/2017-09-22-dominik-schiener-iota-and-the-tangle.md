@@ -4,7 +4,7 @@ title: "(인터뷰 한글 지문) 도미닉: 아이오타와 탱글"
 date: 2017-09-22
 ---
 
-[링크]()
+[Interview](https://www.youtube.com/watch?v=Pt4ja-tTTAI)
 
 아이오타 핵심을 콕 집어주는 도미닉 인터뷰 지문입니다.
 
