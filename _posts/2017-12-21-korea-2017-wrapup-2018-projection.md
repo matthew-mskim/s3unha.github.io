@@ -4,7 +4,7 @@ title: "Korea Cryptocurrency/Blockchain 2017 Wrap-up and 2018 Projection"
 date: 2017-12-21
 ---
 
-###### *At the end of an extremely dynamic year for crypto, Forbes requested I do a wrap up of 2017 and offer my 2 cents about 2018. I'm still very young in the scene and as such I have lots more I need to learn. Most of what I wrote is echoes from leaders in the ecosystem. While they spoke for their particular locale, I gleaned what I could and added snippets of endless conversations I had with various people as well as takeaways from this year. It's been a year of unimaginable growth and I'm humbled by where I am at the end of 2017.*
+### *At the end of an extremely dynamic year for crypto, Forbes requested I do a wrap up of 2017 and offer my 2 cents about 2018. I'm still very young in the scene and as such I have lots more I need to learn. Most of what I wrote is echoes from leaders in the ecosystem. While they spoke for their particular locale, I gleaned what I could and added snippets of endless conversations I had with various people as well as takeaways from this year. It's been a year of unimaginable growth and I'm humbled by where I am at the end of 2017.*
 
 ***
 __Top 5 Moments of 2017:__
