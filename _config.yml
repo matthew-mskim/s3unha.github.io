@@ -1,3 +1,4 @@
 name: dpsyphle, always a student of the psyche and the cypher
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+theme: minima
